@@ -1,6 +1,17 @@
 # safariappui
 
-A new Flutter project.
+This is a UI inspired from a Figma design. It was created by <a href="twitter.com/mzabayuni">Jerry</a> from Twitter.
 
-## Getting Started
-This is a flutter 1 page screen inspired by a Figma design
+## Figma Design File
+Due to privacy issues, you can DM <a href="twitter.com/mzabayuni">Jerry</a> on Twitter for the file access.
+
+## Figma Design Image
+Here is the image from his design on Figma.
+<br>
+<img src="https://lh3.googleusercontent.com/7w3C_7DrdUxuNyLDp3VxtX0oTC_8kZb2J-ksDGpRYg1CuqBg6hJNKE6p_PemszcATyR3StBGP_ylFgkSpWn6GLlgeqZ-bWy-jsz8GdX-0aCnbWwqdEx74oJB7KJGvKQKw7ksB-YaxaZF44wwa4R5dLtb-xo0EdJni2tIfZKStl7tzeISOS5RNhYn9ra0uOXJW4qWoxS5naUmbu-rqYHawgdn1kqU9KW00qDQAEwCa7JWHKHtTl8Y-lMbgYDb7EKvhPz1NpJQYzRIWq7uwT7KirwQZXwLnTW899L3oPtfKoSGiuRhYXs4yjFWjX1bJXRM6xNZr_WXKh_H_DzclLNWuHIqmXuS24zZKLf3W1jTaQ2vYZ04KCAqSnfzyJVskGZVX9sZxZAOnhYkd71Q0YPPBBovsz3ocNHQI3fsQyGRuJEkvS_-DMG1tP-dLnVIZAK-Dz28TO2WeIeJ8Robh2NoSUsb5XoXB_mS7B-OWhs5eGzDCxd1WjLFoHbHfvUjhn3U36Q9qTph3j-CwbkHcT2KyLMH6Ya9EDG1KR5SJ2Kgb2ynUlGDumJ4emY86R4eH_u8-0Lr0YJ7dKDLSk7pKKNg5JUXAEeN4SjBWKEu-eDqqzNO7iCt52jnFTI6szlHB35W8vWV61sQXfWhLAeizJlfXIDnsNRLiWEUEmUP7fNEFdQRuN56kVGihGcdCw2Iqfm6QNsw51rOHRmYd7JRi0qiwk2Q=w268-h578-no?authuser=0">
+
+## App Design Image
+Here is the app screenshot. Not exactly the same but you can create a PR if you need a change.
+<br>
+<br>
+<img src="https://lh3.googleusercontent.com/_gCAtsC4c6lxSW7wenWYnFXgmomoKhgHovdbJKg5XyhTNkpBKwFH3ZZPAW7BfiSijRUEdKosvgCFh5OYvyXkIUiTUqtDKLllgI3xWMWelgBkgGPAQQXdTI-0EoYU_bwUor2DoPrTtmPX3pxduJ5eOFaOKP38LVXieNh03AoslwOZ0k3ZpnWjMBUXph4UqStgrTBZpi3mPQ4AFajJBj9f-kHmhuL9CoOC62gFX40UZCO2kwCsgs6IwUuWDhiaWOuUvFbf3vdEqSL57B_LGA1Sdwv5iwK5Ci7KLpTOSF5Tpx8oqmUPQgLlb6pGAXecWxk0Kie4x2IlKuxyaZ1Y74i5twI0mKYr-COJpGunEMKYl3Q4F5xURGq12OocArsBP0tQNqUmZ4Q5Jsh5eDDA14v8YRJbXma_ohWv4bLR3x83M0dZcZxj6RROPaFE6vB3dFad8z6cnGPmFWqu58nxQ2zoK7fTac-7AfuYUI6F2JSeg4t6ACOSOWljtHpy5l15_S8HYjMmqNbJRgK_JlnX92EcVByNgSmEm5aGTkIIetCmOw4Ckv4Ry12XJuAnh-ODm0LyXEpt4zxJyxq0i6xLlqO_r8m7CGuwDlxvT7ACXIieqnU5NBOBwtwmLIKtHW-iFRbHHOpNN8ryuIRPLuGCDf1Cf9-y9V6BHkE_G_DgUExGif4AdGNyfeDaNhw2zX1-K9CH9vAWPpYYPzmvBWu5vB647g_B=w274-h578-no?authuser=0">
